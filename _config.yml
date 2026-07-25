@@ -1,0 +1,7 @@
+title: 名刺道
+description: 名刺道の公式サポート・法務情報
+lang: ja-JP
+timezone: Asia/Tokyo
+permalink: pretty
+exclude:
+  - README.md
