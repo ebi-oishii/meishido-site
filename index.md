@@ -20,3 +20,4 @@ permalink: /
 - [利用規約]({{ '/terms/' | relative_url }})
 - [特定商取引法に基づく表記]({{ '/commerce/' | relative_url }})
 - [免責事項]({{ '/disclaimer/' | relative_url }})
+- [ライセンス]({{ '/licenses/' | relative_url }})
