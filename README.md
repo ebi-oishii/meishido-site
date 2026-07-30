@@ -12,6 +12,7 @@
 | 利用規約 | `https://ebi-oishii.github.io/meishido-site/terms/` |
 | 特商法 | `https://ebi-oishii.github.io/meishido-site/commerce/` |
 | 免責事項 | `https://ebi-oishii.github.io/meishido-site/disclaimer/` |
+| ライセンス | `https://ebi-oishii.github.io/meishido-site/licenses/` |
 
 App Store Connect / Google Play Console にはこれらの URL を登録します。
 
@@ -59,5 +60,10 @@ google.com, pub-9837264864279123, DIRECT, f08c47fec0942fa0
 
 ## メンテナンス
 
-- 情報が変更されたら該当 `.md` の **最終更新日** と本文を更新して push
+- 法務本文の正本は
+  [`meishi-game/docs/legal-site-drafts`](https://github.com/ebi-oishii/meishi-game/tree/main/docs/legal-site-drafts)
+  とし、このリポジトリの同名 `.md` は公開用の写しとして同期する
+- 情報が変更されたら正本の該当 `.md` の **最終更新日** と本文を先に更新し、
+  このリポジトリへ同期する
+- 同期後は公開URLを確認する。ドリフト検査は非公開のアプリリポジトリ側で行う
 - 大きな変更（利用者への影響がある場合）は「制定日」も更新
